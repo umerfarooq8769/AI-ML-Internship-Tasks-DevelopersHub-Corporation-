@@ -80,8 +80,3 @@ Predict house prices based on real-estate property features using regression tec
 - Scikit-learn (sklearn)
 - Google Colab / Jupyter Notebook
 
----
-
-## 👤 Author
-**AI/ML Engineering Intern**
-DevelopersHub Corporation
